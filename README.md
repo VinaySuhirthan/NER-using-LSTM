@@ -1,4 +1,3 @@
-<img width="639" height="381" alt="image" src="https://github.com/user-attachments/assets/2b075202-955f-4d47-918e-93a1f9c77436" /># Named Entity Recognition
 
 ## AIM
 
